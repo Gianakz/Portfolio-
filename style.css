@@ -9,6 +9,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+   scroll-behavior: smooth;
   font-family: "Poppins", sans-serif;
 }
 
@@ -481,3 +482,4 @@ body {
     opacity: 1;
   }
 }
+
